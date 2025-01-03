@@ -20,7 +20,7 @@ import upload_icon from "./upload_icon.png";
 import upload_area from "./upload_area.svg";
 import stripe_logo from "./stripe_logo.png";
 import razorpay_logo from "./razorpay_logo.png";
-import Admin_logo from "./admin_logo.svg";
+import Admin_logo from "./admin_logo.jpg";
 import doc1 from "./doc1.png";
 import doc2 from "./doc2.png";
 import doc3 from "./doc3.png";

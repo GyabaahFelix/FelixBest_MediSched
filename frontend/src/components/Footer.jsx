@@ -9,10 +9,7 @@ const Footer = () => {
         <div>
           <img className="mb-5 w-40" src={assets.logo} alt="" />
           <p className="w-full md:w-2/3 text-gray-600 leading-6">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+          © XivhaTech World. At XivhaTech, we are dedicated to revolutionizing healthcare through cutting-edge technology, ensuring seamless connections between patients and providers. Our mission is to enhance accessibility, efficiency, and convenience in healthcare management, empowering individuals to take control of their health journey. Thank you for choosing XivhaTech as your trusted partner in health innovation.
           </p>
         </div>
 
@@ -32,7 +29,7 @@ const Footer = () => {
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-gray-600">
             <li>+24 540 2719</li>
-            <li>XhivaTech@gmail.com</li>
+            <li>xivhatechworld@gmail.com</li>
           </ul>
         </div>
       </div>
@@ -40,7 +37,7 @@ const Footer = () => {
         {/* Copyright Text */}
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright© 2024 @ XhivaTech - All Right Reserved.
+          Copyright© 2025@ XhivaTech World - All Right Reserved.
         </p>
       </div>
     </div>
