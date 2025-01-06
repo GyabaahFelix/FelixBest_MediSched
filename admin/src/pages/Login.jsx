@@ -13,7 +13,7 @@ const Login = () => {
     const [password,setPassword] = useState('')
 
     const {setAtoken,backendUrl} = useContext(AdminContext)
-    const {setDToken} = useContext(DoctorContext)
+    const {setDtoken} = useContext(DoctorContext)
 
     const onSubmitHandler = async (event) => {
         
@@ -36,7 +36,7 @@ const Login = () => {
                const {data} = await axios.post(backendUrl + '/api/doctor/login', {email, password}) 
                if (data.success) {
                 localStorage.setItem('dToken',data.token)
-                setDToken(data.token)
+                setDtoken(data.token)
                 console.log(data.token)
             } else {
                 toast.error(data.message)

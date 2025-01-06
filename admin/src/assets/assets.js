@@ -21,6 +21,9 @@ import doctor_icon from "./doctor_icon.svg";
 import appointments_icon from "./appointments_icon.svg";
 import patients_icon from "./patients_icon.svg";
 import list_icon from "./list_icon.svg";
+import cancel_icon from "./cancel_icon.svg";
+import tick_icon from "./tick_icon.svg";
+import earning_icon from "./earning_icon.svg";
 import upload_area from "./upload_area.svg";
 import stripe_logo from "./stripe_logo.png";
 import razorpay_logo from "./razorpay_logo.png";
@@ -61,6 +64,8 @@ export const assets = {
   appointment_icon,
   add_icon,
   people_icon,
+  cancel_icon,
+  tick_icon,
   contact_image,
   about_image,
   menu_icon,
@@ -75,6 +80,7 @@ export const assets = {
   appointments_icon,
   patients_icon,
   list_icon,
+  earning_icon,
 };
 
 export const specialityData = [
