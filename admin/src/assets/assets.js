@@ -26,7 +26,6 @@ import tick_icon from "./tick_icon.svg";
 import earning_icon from "./earning_icon.svg";
 import upload_area from "./upload_area.svg";
 import stripe_logo from "./stripe_logo.png";
-import razorpay_logo from "./razorpay_logo.png";
 import Admin_logo from "./admin_logo.jpg";
 import doc1 from "./doc1.png";
 import doc2 from "./doc2.png";
@@ -74,7 +73,6 @@ export const assets = {
   upload_icon,
   upload_area,
   stripe_logo,
-  razorpay_logo,
   Admin_logo,
   doctor_icon,
   appointments_icon,
