@@ -30,8 +30,6 @@ RESTful APIs for CRUD operations
 
 User and admin authentication using JWT
 
-Data validation using Joi
-
 3. Frontend
 
 The frontend provides the user interface for patients to book appointments and interact with the system.
