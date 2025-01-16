@@ -1,4 +1,4 @@
-XhivaTechWorld_MediSched Website
+XHIVATECHWORLD_MEDISCHED WEBSITE
 
 The XhivaTechWorld_MediSched website is a full-stack web application designed to facilitate doctor appointment bookings. The project is organized into three main folders: admin, backend, and frontend.
 
