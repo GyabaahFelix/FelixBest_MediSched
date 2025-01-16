@@ -109,6 +109,13 @@ git checkout -b feature-name
 3.Commit your changes:
 git commit -m "Description of changes"
 
+
+Contact
+
+For inquiries or issues, please contact:
+Phone: 0245402719
+Email: felixic360@gmail.com
+GitHub: GyabaahFelix
 4.Push to the branch:
 git push origin feature-name
 
